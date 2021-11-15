@@ -6,6 +6,6 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 
 ### Documentação Oficial
 
-Url | Autor
---- | ---
-[Swift Language - Documentation](https://www.swift.org/documentation/) | Swift.org
+Url | Autor | Idioma
+--- | --- | ---
+[Swift Language - Documentation](https://www.swift.org/documentation/) | Swift.org | Inglês
