@@ -1,6 +1,6 @@
 # iOS Dev Links
 
-Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes que podem ser úteis em algum momento durante a carreira de um desenvolvedor iOS.
+Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes que podem ser úteis em algum momento durante a carreira de um desenvolvedor iOS (ou até para devs de outras áreas). Geralmente são links de conteúdos que eu guardo nos meus favoritos seja porque já fiz a leitura ou porque quero guardar para ler posteriormente.
 
 ## Tópicos
 
