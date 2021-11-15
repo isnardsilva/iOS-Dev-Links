@@ -20,3 +20,5 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 Url | Autor | Idioma
 --- | --- | ---
 [Swift Language - Documentation](https://www.swift.org/documentation/) | Swift.org | Inglês
+[The Swift Programming Language - Tradução Português (BR)](https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br) | CocoaHeads Brasil | Português
+
