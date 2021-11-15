@@ -6,13 +6,9 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
-2. [Para Seguir](#para-seguir)
-    1. [YouTube](#youtube)
-4. Second item
-5. Third item
-    1. Indented item
-    2. Indented item
-6. Fourth item 
+2. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
+    1. [Modular Architecture](#modular-architecture)
+3. Mais um item...
 
 
 ## Swift
@@ -31,4 +27,6 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Swift Language - Documentation](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) | Swift.org | Inglês
+[Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) | Leandro Pérez (Medium) | Inglês
+[Modular Architecture in iOS: Dependencies](https://medium.com/flawless-app-stories/modular-architecture-in-ios-dependencies-1cf9b563aa1d9) | Leandro Pérez (Medium) | Inglês
+[iOS Architecture Patterns for Large-Scale Development, part 1: Modular architecture](https://blog.griddynamics.com/modular-architecture-in-ios/) | Egor Zubkov | Inglês
