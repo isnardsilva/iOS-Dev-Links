@@ -10,7 +10,8 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
 2. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
-    1. [Modular Architecture](#modular-architecture)
+    1. [MVVM](#mvvm)
+    2. [Modular Architecture](#modular-architecture)
 3. Mais um item...
 
 <br><br>
@@ -27,6 +28,14 @@ Url | Autor | Idioma
 <br>
 
 ## Padrões Arquiteturais (Architecture Patterns)
+
+### MVVM
+
+Url | Autor | Idioma
+--- | --- | ---
+[Swift Tutorial: An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm) | Toptal | Inglês
+
+
 
 ### Modular Architecture
 
