@@ -2,6 +2,9 @@
 
 Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes que podem ser úteis em algum momento durante a carreira de um desenvolvedor iOS (ou até para devs de outras áreas 😄). Geralmente são links de conteúdos que eu guardo nos meus favoritos seja porque já fiz a leitura ou porque quero guardar para ler posteriormente.
 
+<br>
+
+
 ## Tópicos
 
 1. [Swift](#swift)
@@ -10,6 +13,7 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
     1. [Modular Architecture](#modular-architecture)
 3. Mais um item...
 
+<br><br>
 
 ## Swift
 
@@ -20,6 +24,7 @@ Url | Autor | Idioma
 [Swift Language - Documentation](https://www.swift.org/documentation/) | Swift.org | Inglês
 [The Swift Programming Language - Tradução Português (BR)](https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br) | CocoaHeads Brasil | Português
 
+<br>
 
 ## Padrões Arquiteturais (Architecture Patterns)
 
@@ -30,3 +35,4 @@ Url | Autor | Idioma
 [Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) | Leandro Pérez (Medium) | Inglês
 [Modular Architecture in iOS: Dependencies](https://medium.com/flawless-app-stories/modular-architecture-in-ios-dependencies-1cf9b563aa1d9) | Leandro Pérez (Medium) | Inglês
 [iOS Architecture Patterns for Large-Scale Development, part 1: Modular architecture](https://blog.griddynamics.com/modular-architecture-in-ios/) | Egor Zubkov | Inglês
+[Modularização e Gerenciamento de Dependências](https://www.youtube.com/playlist?list=PLaaOHqWQrhKvLDbfc0yRu7I8hMypt3sXk) | Cícero Camargo CODEMUS (YouTube) | Português
