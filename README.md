@@ -57,4 +57,7 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS ](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello (Udemy) | Português
+[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello 
+(Udemy) | Português
+[Become a Unit Test Master](https://leocoout.medium.com/become-a-unit-test-master-84f4fa276deb) | Leonardo Santos (Medium) | Inglês
+[Unit Testing SDKs on iOS](https://leocoout.medium.com/unit-test-static-and-singleton-frameworks-on-ios-df4e7d77a7b8) | Leonardo Santos (Medium) | Inglês
