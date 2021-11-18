@@ -12,7 +12,7 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 2. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
-3. Mais um item...
+3. Testes Automatizados
 
 <br><br>
 
@@ -45,3 +45,15 @@ Url | Autor | Idioma
 [Modular Architecture in iOS: Dependencies](https://medium.com/flawless-app-stories/modular-architecture-in-ios-dependencies-1cf9b563aa1d9) | Leandro Pérez (Medium) | Inglês
 [iOS Architecture Patterns for Large-Scale Development, part 1: Modular architecture](https://blog.griddynamics.com/modular-architecture-in-ios/) | Egor Zubkov | Inglês
 [Modularização e Gerenciamento de Dependências](https://www.youtube.com/playlist?list=PLaaOHqWQrhKvLDbfc0yRu7I8hMypt3sXk) | Cícero Camargo CODEMUS (YouTube) | Português
+
+
+
+<br>
+
+## Testes Automatizados
+
+### Testes Unitários (Unit Testing)
+
+Url | Autor | Idioma
+--- | --- | ---
+[Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) | Leandro Pérez (Medium) | Inglês
