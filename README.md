@@ -12,7 +12,8 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 2. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
-3. Testes Automatizados
+3. [Testes Automatizados](#testes-automatizados)
+    1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
 
 <br><br>
 
@@ -56,4 +57,4 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) | Leandro Pérez (Medium) | Inglês
+[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS ](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Leandro Pérez (Udemy) | Português
