@@ -57,4 +57,4 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS ](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Leandro Pérez (Udemy) | Português
+[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS ](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello (Udemy) | Português
