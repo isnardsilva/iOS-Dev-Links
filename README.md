@@ -9,10 +9,11 @@ Nesse repositório estarão os links de artigos/vídeos/conteúdos interessantes
 
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
-2. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
+2. [Coordinator](#coordinator)
+3. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
-3. [Testes Automatizados](#testes-automatizados)
+4. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
 
 <br><br>
@@ -25,6 +26,16 @@ Url | Autor | Idioma
 --- | --- | ---
 [Swift Language - Documentation](https://www.swift.org/documentation/) | Swift.org | Inglês
 [The Swift Programming Language - Tradução Português (BR)](https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br) | CocoaHeads Brasil | Português
+
+<br>
+
+## Coordinator
+
+Url | Autor | Idioma
+--- | --- | ---
+[Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7#.hgv4r6y6p) | Andrey Panov (Medium) | Inglês
+[Coordinators Essential tutorial. Part II](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii-b5ab3eb4a74) | Andrey Panov (Medium) | Inglês
+[Coordinators Essential tutorial. (ProjectExample/GitHub)](https://github.com/AndreyPanov/ApplicationCoordinator) | Andrey Panov | Inglês
 
 <br>
 
