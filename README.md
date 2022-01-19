@@ -16,7 +16,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 4. [SwiftUI](#swiftui)
 5. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
-    2. [Testes de UI (User Interface Testing)](#testes-unitários-unit-testing)
+    2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
 
 <br><br>
 
@@ -86,4 +86,4 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello (Udemy) | Português
+[Snapshot Testing in Swift 📸](https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c) | Roberto Frontado (Medium) | Inglês
