@@ -10,8 +10,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
 2. [Coordinator](#coordinator)
-3. [Notifications](#testes-automatizados)
-    1. [Push Notifications](#testes-unitários-unit-testing)
+3. [Notifications](#notifications)
+    1. [Push Notifications](#push-notifications)
 4. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
@@ -49,7 +49,8 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello (Udemy) | Português
+[Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started) | Chuck Krutsinger (Ray Wenderlich) | Inglês
+[Firebase Cloud Messaging for iOS: Push Notifications](https://www.raywenderlich.com/20201639-firebase-cloud-messaging-for-ios-push-notifications) | Andy Pereira (Ray Wenderlich) | Inglês
 
 <br>
 
