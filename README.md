@@ -10,11 +10,13 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
 2. [Coordinator](#coordinator)
-3. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
+3. [Notifications](#testes-automatizados)
+    1. [Push Notifications](#testes-unitários-unit-testing)
+4. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
-4. [SwiftUI](#swiftui)
-5. [Testes Automatizados](#testes-automatizados)
+5. [SwiftUI](#swiftui)
+6. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
 
@@ -40,6 +42,17 @@ Url | Autor | Idioma
 [Coordinators Essential tutorial. (ProjectExample/GitHub)](https://github.com/AndreyPanov/ApplicationCoordinator) | Andrey Panov | Inglês
 
 <br>
+
+## Notifications
+
+### Push Notifications
+
+Url | Autor | Idioma
+--- | --- | ---
+[Curso: Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/) | Bruno Faganello (Udemy) | Português
+
+<br>
+
 
 ## Padrões Arquiteturais (Architecture Patterns)
 
