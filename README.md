@@ -19,6 +19,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 6. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
+7. [Ferramentas (Tools)](#ferramentas-tools)
 
 <br><br>
 
@@ -101,3 +102,14 @@ Url | Autor | Idioma
 Url | Autor | Idioma
 --- | --- | ---
 [Snapshot Testing in Swift 📸](https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c) | Roberto Frontado (Medium) | Inglês
+
+
+<br>
+
+## Ferramentas (Tools)
+
+Url | Autor | Idioma
+--- | --- | ---
+[App Icon Generator](https://appicon.co/) | App Icon Generator | Inglês
+[Convert JSON into gorgeous, typesafe code in any language.](https://app.quicktype.io/) | quicktype | Inglês
+[Crie arquivos .gitignore úteis para o seu projeto.](https://www.toptal.com/developers/gitignore) | Toptal | Português
