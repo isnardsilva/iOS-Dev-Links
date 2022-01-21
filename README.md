@@ -17,6 +17,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 6. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
+    3. [Clean Architecture](#clean-architecture)
 7. [SwiftUI](#swiftui)
 8. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
@@ -101,6 +102,12 @@ Url | Autor | Idioma
 [iOS Architecture Patterns for Large-Scale Development, part 1: Modular architecture](https://blog.griddynamics.com/modular-architecture-in-ios/) | Egor Zubkov | Inglês
 [Modularização e Gerenciamento de Dependências](https://www.youtube.com/playlist?list=PLaaOHqWQrhKvLDbfc0yRu7I8hMypt3sXk) | Cícero Camargo CODEMUS (YouTube) | Português
 
+
+### Modular Architecture
+
+Url | Autor | Idioma
+--- | --- | ---
+[The Clean Architecture — Beginner’s Guide](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165) | Bharath (Medium) | Inglês
 
 <br>
 
