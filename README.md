@@ -10,16 +10,16 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
 2. [Coordinator](#coordinator)
-3. [Notifications](#notifications)
+3. [Ferramentas (Tools)](#ferramentas-tools)
+4. [Notifications](#notifications)
     1. [Push Notifications](#push-notifications)
-4. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
+5. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
-5. [SwiftUI](#swiftui)
-6. [Testes Automatizados](#testes-automatizados)
+6. [SwiftUI](#swiftui)
+7. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
-7. [Ferramentas (Tools)](#ferramentas-tools)
 
 <br><br>
 
@@ -41,6 +41,17 @@ Url | Autor | Idioma
 [Coordinators Essential tutorial. Part I](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-i-376c836e9ba7#.hgv4r6y6p) | Andrey Panov (Medium) | Inglês
 [Coordinators Essential tutorial. Part II](https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii-b5ab3eb4a74) | Andrey Panov (Medium) | Inglês
 [Coordinators Essential tutorial. (ProjectExample/GitHub)](https://github.com/AndreyPanov/ApplicationCoordinator) | Andrey Panov | Inglês
+
+<br>
+
+## Ferramentas (Tools)
+
+Url | Autor | Idioma
+--- | --- | ---
+[App Icon Generator](https://appicon.co/) | App Icon Generator | Inglês
+[Convert JSON into gorgeous, typesafe code in any language.](https://app.quicktype.io/) | quicktype | Inglês
+[Crie arquivos .gitignore úteis para o seu projeto.](https://www.toptal.com/developers/gitignore) | Toptal | Português
+
 
 <br>
 
@@ -102,14 +113,3 @@ Url | Autor | Idioma
 Url | Autor | Idioma
 --- | --- | ---
 [Snapshot Testing in Swift 📸](https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c) | Roberto Frontado (Medium) | Inglês
-
-
-<br>
-
-## Ferramentas (Tools)
-
-Url | Autor | Idioma
---- | --- | ---
-[App Icon Generator](https://appicon.co/) | App Icon Generator | Inglês
-[Convert JSON into gorgeous, typesafe code in any language.](https://app.quicktype.io/) | quicktype | Inglês
-[Crie arquivos .gitignore úteis para o seu projeto.](https://www.toptal.com/developers/gitignore) | Toptal | Português
