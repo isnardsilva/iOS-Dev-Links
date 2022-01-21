@@ -19,11 +19,12 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
     3. [Clean Architecture](#clean-architecture)
-8. [SwiftUI](#swiftui)
-9. [Testes Automatizados](#testes-automatizados)
+8. [Postman](#postman)
+9. [SwiftUI](#swiftui)
+10. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
-10. [Xcode](#xcode)
+11. [Xcode](#xcode)
     1. [Xcode Build Configuration](#xcode-build-configuration)
 
 
@@ -129,6 +130,15 @@ Url | Autor | Idioma
 Url | Autor | Idioma
 --- | --- | ---
 [SwiftUI: Firebase Chat iOS Tutorial](https://youtube.com/playlist?list=PLJ0AcghBBWShgAe7Pf_MB52jKceG-cWGW) | Tiago Aguiar (YouTube) | Português
+
+
+<br>
+
+## Postman
+
+Url | Autor | Idioma
+--- | --- | ---
+[Importing and exporting data](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) | Postman | Inglês
 
 
 <br>
