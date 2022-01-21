@@ -9,7 +9,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
-2. [ARC (Automatic Reference Counting)](#code-review)
+2. [ARC (Automatic Reference Counting)](#arc-automatic-reference-counting)
 3. [Code Review](#code-review)
 4. [Coordinator](#coordinator)
 5. [Ferramentas (Tools)](#ferramentas-tools)
@@ -45,7 +45,9 @@ Url | Autor | Idioma
 
 Url | Autor | Idioma
 --- | --- | ---
-[An iOS Developer’s Handbook for Code Reviewing](https://betterprogramming.pub/swift-the-art-of-code-reviewing-e4785da7e0c6) | Pedro Alvarez (Medium) | Inglês
+[Evitando retenções cíclicas em Swift](https://medium.com/mackmobile/evitando-reten%C3%A7%C3%B5es-c%C3%ADclicas-em-swift-3c793b927bac) | André Gimenez Faria (Medium) | Português
+[Swift - What is ARC [pt_BR]](https://www.youtube.com/watch?v=LgAmXuNT0J8) |  O Codificador BR (YouTube) | Português
+[[SWIFT] Desvendando o ARC do SWIFT](https://www.youtube.com/watch?v=CZbOUMOxtU8) | DevPoli (YouTube) | Português
 
 <br>
 
