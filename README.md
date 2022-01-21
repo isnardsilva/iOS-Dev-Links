@@ -129,3 +129,4 @@ Url | Autor | Idioma
 [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/) | Ziad Tamim | Inglês
 [Xcode Build Configuration Files](https://nshipster.com/xcconfig/) | Mattt | Inglês
 [Building Your App Using Build Configurations and .xcconfig](https://www.raywenderlich.com/21441177-building-your-app-using-build-configurations-and-xcconfig) | Saleh Albuga (Ray Wenderlich) | Inglês
+[Power of .xcconfigs in Xcode](https://medium.com/@sandshell811/power-of-xcconfigs-in-xcode-2bba939f2ab2) | Sandeep Kumar (Medium) | Inglês
