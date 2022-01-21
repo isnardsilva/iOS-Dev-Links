@@ -20,6 +20,9 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 7. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
+8. [Xcode](#xcode)
+    1. [Xcode Build Configuration](#xcode-build-configuration)
+
 
 <br><br>
 
@@ -113,3 +116,16 @@ Url | Autor | Idioma
 Url | Autor | Idioma
 --- | --- | ---
 [Snapshot Testing in Swift 📸](https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c) | Roberto Frontado (Medium) | Inglês
+
+
+<br>
+
+## Xcode
+
+### Xcode Build Configuration
+
+Url | Autor | Idioma
+--- | --- | ---
+[Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/) | Ziad Tamim | Inglês
+[Xcode Build Configuration Files](https://nshipster.com/xcconfig/) | Mattt | Inglês
+[Building Your App Using Build Configurations and .xcconfig](https://www.raywenderlich.com/21441177-building-your-app-using-build-configurations-and-xcconfig) | Saleh Albuga (Ray Wenderlich) | Inglês
