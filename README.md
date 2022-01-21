@@ -9,20 +9,21 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 1. [Swift](#swift)
     1. [Documentação Oficial](#documentação-oficial)
-2. [Code Review](#code-review)
-3. [Coordinator](#coordinator)
-4. [Ferramentas (Tools)](#ferramentas-tools)
-5. [Notifications](#notifications)
+2. [ARC (Automatic Reference Counting)](#code-review)
+3. [Code Review](#code-review)
+4. [Coordinator](#coordinator)
+5. [Ferramentas (Tools)](#ferramentas-tools)
+6. [Notifications](#notifications)
     1. [Push Notifications](#push-notifications)
-6. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
+7. [Padrões Arquiteturais (Architecture Patterns)](#padrões-arquiteturais-architecture-patterns)
     1. [MVVM](#mvvm)
     2. [Modular Architecture](#modular-architecture)
     3. [Clean Architecture](#clean-architecture)
-7. [SwiftUI](#swiftui)
-8. [Testes Automatizados](#testes-automatizados)
+8. [SwiftUI](#swiftui)
+9. [Testes Automatizados](#testes-automatizados)
     1. [Testes Unitários (Unit Testing)](#testes-unitários-unit-testing)
     2. [Testes de UI (User Interface Testing)](#testes-de-ui-user-interface-testing)
-9. [Xcode](#xcode)
+10. [Xcode](#xcode)
     1. [Xcode Build Configuration](#xcode-build-configuration)
 
 
@@ -38,6 +39,16 @@ Url | Autor | Idioma
 [The Swift Programming Language - Tradução Português (BR)](https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br) | CocoaHeads Brasil | Português
 
 <br>
+
+
+## ARC (Automatic Reference Counting
+
+Url | Autor | Idioma
+--- | --- | ---
+[An iOS Developer’s Handbook for Code Reviewing](https://betterprogramming.pub/swift-the-art-of-code-reviewing-e4785da7e0c6) | Pedro Alvarez (Medium) | Inglês
+
+<br>
+
 
 ## Code Review
 
