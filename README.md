@@ -103,7 +103,7 @@ Url | Autor | Idioma
 Url | Autor | Idioma
 --- | --- | ---
 [Swift Tutorial: An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm) | Toptal | Inglês
-[Introdução ao MVVM 🇧🇷 | SwiftUI Data-Flow](https://www.youtube.com/watch?v=mS6Tj1I9Gto) |  Michel Lopes (YouTube) | Português
+[Introdução ao MVVM 🇧🇷 - SwiftUI Data-Flow](https://www.youtube.com/watch?v=mS6Tj1I9Gto) |  Michel Lopes (YouTube) | Português
 
 
 
