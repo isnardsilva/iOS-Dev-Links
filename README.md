@@ -5,7 +5,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 <br>
 
 ## Tópicos 📃
----
+
 ### Algorithm
 ### Analytics
 ### Apple Store Connect
