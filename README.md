@@ -88,6 +88,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [SwiftUI](pages/swiftui.md)
 
 ### Technical Challenges
+### Terminal
 ### Tools
 - [General](pages/general-tools.md)
 - [Postman](pages/postman.md)
