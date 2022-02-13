@@ -80,6 +80,9 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Push Notifications](pages/push-notifications.md)
 
 ### Platform / Open API
+### Style Guides
+- [iOS Style Guides](pages/ios-style-guides.md)
+
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
 
