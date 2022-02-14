@@ -67,6 +67,10 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - Bitbucket 🔜
 
 ### Image
+### Interviews
+- [Interview Tips](pages/interview-tips.md)
+- [Technical Challenges](pages/technical-challenges.md)
+
 ### JSON Parsing Helper
 ### macOS
 ### Markdown
@@ -90,7 +94,6 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### SwiftUI
 - [SwiftUI](pages/swiftui.md)
 
-### Technical Challenges
 ### Terminal
 ### Tools
 - [General](pages/general-tools.md)
