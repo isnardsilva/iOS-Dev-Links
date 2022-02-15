@@ -61,7 +61,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Font
 ### GCD
 ### Git
-- Git 🔜
+- [Git](pages/git.md)
 - GitHub 🔜
 - GitLab 🔜
 - Bitbucket 🔜
