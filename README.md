@@ -7,6 +7,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ## Tópicos 📃
 
 ### Algorithm
+- [Algorithm](pages/algorithm.md)
+
 ### Analytics
 ### Apple Store Connect
 - App Store 🔜
