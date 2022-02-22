@@ -91,6 +91,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
+- [Date](pages/swift-lang-date.md)
 
 ### Swift Playgrounds
 ### SwiftUI
