@@ -32,11 +32,16 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - Integration Testing 🔜
 
 ### Career
+- [Career](pages/career.md)
+
 ### CI/CD
 ### Clean Code & Clean Architecture
 - Clean Code 🔜
 - [Clean Architecture](pages/clean-architecture.md)
 - SOLID 🔜
+
+### Clone Apps
+- [Clone Apps](pages/clone-apps.md)
 
 ### Code Review
 - [Code Review Tips](pages/code-review-tips.md)
@@ -74,6 +79,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Technical Challenges](pages/technical-challenges.md)
 
 ### JSON Parsing Helper
+- [JSON Parsing](pages/json-parsing.md)
+
 ### macOS
 ### Markdown
 ### Networking
@@ -103,5 +110,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Postman](pages/postman.md)
 
 ### UIKit
+- [Documentation & Basic Guides](pages/uikit-documentation-basic-concepts.md)
+
 ### Xcode
 - [Xcode Build Configuration](pages/xcode-build-configuration.md)
