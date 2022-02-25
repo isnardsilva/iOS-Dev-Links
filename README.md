@@ -47,19 +47,24 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - User Defaults 🔜
 - Keychain 🔜
 
-### Design
+### Design (UI)
 - HIG 🔜
 - Figma 🔜
 
+### Design Patterns
+- [Design Patterns Tips](pages/design-patterns-tips.md)
+
 ### Dependency Manager
 - Cocoa Pods 🔜
-- SPM (Swift Package Manager)
+- [SPM (Swift Package Manager)](pages/swift-package-manager-spm.md)
 - Carthage 🔜
 
 ### Device Specification
 ### Firebase
 ### Font
 ### GCD
+- [GCD](pages/grand-central-dispatch-gcd.md)
+
 ### Git
 - [Git](pages/git.md)
 - GitHub 🔜
@@ -70,9 +75,6 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Interviews
 - [Interview Tips](pages/interview-tips.md)
 - [Technical Challenges](pages/technical-challenges.md)
-
-### JSON Parsing Helper
-- [JSON Parsing](pages/json-parsing.md)
 
 ### Keynote
 - [Keynote Tips](pages/keynote-tips.md)
@@ -89,6 +91,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - URLSession 🔜
 - Alamofire 🔜
 - Moya 🔜
+- [JSON Parsing](pages/json-parsing.md)
 
 ### Notifications
 - [Push Notifications](pages/push-notifications.md)
@@ -100,6 +103,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
 - [Date](pages/swift-lang-date.md)
+- [Optionals](pages/swift-lang-optionals.md)
+- [Reducers](pages/swift-lang-reducers.md)
 
 ### Swift Playgrounds
 ### SwiftUI
