@@ -5,3 +5,6 @@ https://www.avanderlee.com/swift/json-parsing-decoding/
 
 - **Ignoring invalid JSON elements when using Codable** [EN-US] \
 https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/
+
+- **Customizing Codable types in Swift** [EN-US] \
+https://www.swiftbysundell.com/articles/customizing-codable-types-in-swift/
