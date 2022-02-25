@@ -20,16 +20,12 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [ARC (Automatic Reference Counting)](pages/arc.md)
 
 ### Architectural Topics
+- [Architecture Tips](pages/architecture-tips.md)
 - MVC 🔜
 - MVP 🔜
 - [MVVM](pages/mvvm-architecture.md)
 - VIPER 🔜
 - [Modular Architecture](pages/modular-architecture.md)
-
-### Automated Testing
-- [Unit Testing](pages/unit-testing.md)
-- [UI Testing](pages/ui-testing.md)
-- Integration Testing 🔜
 
 ### Career
 - [Career](pages/career.md)
@@ -45,9 +41,6 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Code Review
 - [Code Review Tips](pages/code-review-tips.md)
-
-### Coordinator
-- [Coordinator Pattern](pages/coordinator-pattern.md)
 
 ### Database
 - Core Data 🔜
@@ -81,8 +74,16 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### JSON Parsing Helper
 - [JSON Parsing](pages/json-parsing.md)
 
+### Keynote
+- [Keynote Tips](pages/keynote-tips.md)
+
 ### macOS
 ### Markdown
+### Navigation
+- [Navigation Tips](pages/navigation-tips.md)
+- [DeepLinks](pages/deeplinks-navigation.md)
+- [Coordinator](pages/coordinator-pattern.md)
+
 ### Networking
 - Tips 🔜
 - URLSession 🔜
@@ -105,6 +106,13 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [SwiftUI](pages/swiftui.md)
 
 ### Terminal
+### Tests
+- [Tests Tips](pages/tests-tips.md)
+- [Unit Testing](pages/unit-testing.md)
+- [UI Testing](pages/ui-testing.md)
+- Integration Testing 🔜
+- [TDD](pages/test-driven-development-tdd.md)
+
 ### Tools
 - [General](pages/general-tools.md)
 - [Postman](pages/postman.md)

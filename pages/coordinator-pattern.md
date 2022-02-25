@@ -8,3 +8,6 @@ https://medium.com/blacklane-engineering/coordinators-essential-tutorial-part-ii
 
 - **Coordinators Essential tutorial. [ProjectExample/GitHub]** [EN-US] \
 https://github.com/AndreyPanov/ApplicationCoordinator
+
+- **Deep Linking at Scale on iOS** [EN-US] \
+https://medium.com/@albertodebo/deep-linking-at-scale-on-ios-1dd8789c389f

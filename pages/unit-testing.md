@@ -8,3 +8,12 @@ https://leocoout.medium.com/become-a-unit-test-master-84f4fa276deb
 
 - **Unit Testing SDKs on iOS** [EN-US] \
 https://leocoout.medium.com/unit-test-static-and-singleton-frameworks-on-ios-df4e7d77a7b8
+
+- **Martin Fowler - UnitTest** [EN-US] \
+https://martinfowler.com/bliki/UnitTest.html
+
+- **iOS Unit Testing by Example** [EN-US] \
+https://pragprog.com/book/jrlegios/ios-unit-testing-by-example
+
+- **Creating a Swift 5.2 Executable with Unit Tests** [EN-US] \
+https://scottie.is/writing/swift-executables-with-unit-tests/
