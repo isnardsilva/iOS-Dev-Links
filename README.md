@@ -34,7 +34,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Clean Code & Clean Architecture
 - Clean Code 🔜
 - [Clean Architecture](pages/clean-architecture.md)
-- SOLID 🔜
+- [SOLID](pages/solid.md)
 
 ### Clone Apps
 - [Clone Apps](pages/clone-apps.md)
@@ -103,10 +103,16 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
 - [Date](pages/swift-lang-date.md)
+- [Enum](pages/swift-lang-enum.md)
 - [Optionals](pages/swift-lang-optionals.md)
+- [Protocols](pages/swift-lang-protocols.md)
 - [Reducers](pages/swift-lang-reducers.md)
+- [Struct & Class](pages/swift-lang-struct-and-class.md)
+- [Variables & Constants](pages/swift-lang-variables-and-constants.md)
 
 ### Swift Playgrounds
+- [Swift Playgrounds](pages/swift-playgrounds.md)
+
 ### SwiftUI
 - [SwiftUI](pages/swiftui.md)
 
@@ -124,6 +130,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### UIKit
 - [Documentation & Basic Guides](pages/uikit-documentation-basic-concepts.md)
+- [View Code](pages/uikit-view-code.md)
 
 ### Xcode
 - [Xcode Build Configuration](pages/xcode-build-configuration.md)
