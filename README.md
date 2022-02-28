@@ -42,9 +42,12 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Code Review
 - [Code Review Tips](pages/code-review-tips.md)
 
+### Data Structures
+- [Tips](pages/data-structures-tips.md)
+
 ### Database
 - Core Data 🔜
-- User Defaults 🔜
+- [User Defaults](pages/user-defaults.md)
 - Keychain 🔜
 
 ### Design (UI)
@@ -53,11 +56,12 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Design Patterns
 - [Design Patterns Tips](pages/design-patterns-tips.md)
+- [Delegation](pages/delegation-pattern.md)
 
 ### Dependency Manager
-- Cocoa Pods 🔜
+- [Cocoa Pods](pages/cocoa-pods.md)
 - [SPM (Swift Package Manager)](pages/swift-package-manager-spm.md)
-- Carthage 🔜
+- [Carthage](pages/carthage.md)
 
 ### Device Specification
 ### Firebase
@@ -87,23 +91,29 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Coordinator](pages/coordinator-pattern.md)
 
 ### Networking
-- Tips 🔜
+- [Tips](pages/networking-tips.md)
 - URLSession 🔜
 - Alamofire 🔜
 - Moya 🔜
 - [JSON Parsing](pages/json-parsing.md)
 
 ### Notifications
+- [Notification Center](pages/notification-center.md)
 - [Push Notifications](pages/push-notifications.md)
 
 ### Platform / Open API
+### Project Resources
+- [Fonts](pages/project-resources-fonts.md)
+
 ### Style Guides
 - [iOS Style Guides](pages/ios-style-guides.md)
 
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
+- [Closures](pages/swift-lang-closures.md)
 - [Date](pages/swift-lang-date.md)
 - [Enum](pages/swift-lang-enum.md)
+- [Extensions](pages/swift-lang-extensions.md)
 - [Optionals](pages/swift-lang-optionals.md)
 - [Protocols](pages/swift-lang-protocols.md)
 - [Reducers](pages/swift-lang-reducers.md)
@@ -130,7 +140,13 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### UIKit
 - [Documentation & Basic Guides](pages/uikit-documentation-basic-concepts.md)
+- [Auto Layout](pages/uikit-auto-layout.md)
+- [Custom Components](pages/uikit-custom-components.md)
+- [Storyboard and XIB](pages/uikit-storyboard-and-xib.md)
+- [UITableView](pages/uikit-uitableview.md)
+- [UIViewController](pages/uikit-uiviewcontroller.md)
 - [View Code](pages/uikit-view-code.md)
 
 ### Xcode
+- [Shortcuts](pages/xcode-shortcuts.md)
 - [Xcode Build Configuration](pages/xcode-build-configuration.md)
