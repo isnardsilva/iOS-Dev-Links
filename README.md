@@ -71,6 +71,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Git
 - [Git](pages/git.md)
+- [GitFlow](pages/gitflow.md)
 - GitHub 🔜
 - GitLab 🔜
 - Bitbucket 🔜
@@ -103,7 +104,9 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Platform / Open API
 ### Project Resources
+- [Design System](pages/design-system.md)
 - [Fonts](pages/project-resources-fonts.md)
+- [Style Guide](pages/style-guide.md)
 
 ### Style Guides
 - [iOS Style Guides](pages/ios-style-guides.md)
