@@ -56,7 +56,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Design Patterns
 - [Design Patterns Tips](pages/design-patterns-tips.md)
-- [Delegation](pages/delegation-pattern.md)
+- [Factory](pages/design-pattern-factory.md)
+- [Delegation](pages/design-pattern-delegation.md)
 
 ### Dependency Manager
 - [Cocoa Pods](pages/cocoa-pods.md)
