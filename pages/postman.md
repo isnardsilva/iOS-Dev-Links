@@ -11,3 +11,6 @@ https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data
 
 - **Mocking Server Response Data with Postman on Android** [EN-US] \
 https://oozou.com/blog/mocking-server-response-data-with-postman-on-android-61
+
+- **Mock Servers | The Exploratory** [EN-US] \
+https://www.youtube.com/watch?v=n_7UUghLpco
