@@ -152,5 +152,6 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [View Code](pages/uikit-view-code.md)
 
 ### Xcode
+- [Tips](pages/xcode-tips.md)
 - [Shortcuts](pages/xcode-shortcuts.md)
 - [Xcode Build Configuration](pages/xcode-build-configuration.md)
