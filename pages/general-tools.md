@@ -18,3 +18,5 @@ https://www.screensizes.app/
 - **Convert HEX & RGB colors to UIColor** [EN-US] \
 https://www.uicolor.io/
 
+- **Online UUID Generator** [EN-US] \
+https://www.uuidgenerator.net/
