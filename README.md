@@ -137,6 +137,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [UI Testing](pages/ui-testing.md)
 - Integration Testing 🔜
 - [TDD](pages/test-driven-development-tdd.md)
+- [BDD](pages/behavior-driven-development-bdd.md)
 
 ### Tools
 - [General](pages/general-tools.md)
