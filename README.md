@@ -46,7 +46,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Tips](pages/data-structures-tips.md)
 
 ### Database
-- Core Data 🔜
+- [Core Data](pages/core-data.md)
 - [User Defaults](pages/user-defaults.md)
 - Keychain 🔜
 
