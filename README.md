@@ -155,4 +155,4 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Xcode
 - [Tips](pages/xcode-tips.md)
 - [Shortcuts](pages/xcode-shortcuts.md)
-- [Xcode Build Configuration](pages/xcode-build-configuration.md)
+- [Xcode Build](pages/xcode-build.md)
