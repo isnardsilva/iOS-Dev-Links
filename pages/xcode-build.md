@@ -16,5 +16,5 @@ https://medium.com/@sandshell811/power-of-xcconfigs-in-xcode-2bba939f2ab2
 <br>
 
 ## Xcode Build Time
-- **[Build Failed Podcast][Podcast] Xcode Build System, Buck e Bezel** [PT-BR] \
+- **[Podcast][Build Failed Podcast] Xcode Build System, Buck e Bezel** [PT-BR] \
 https://open.spotify.com/episode/45xiYMFcU2TMuVDFMjpLtC?si=117eb75542964a62
