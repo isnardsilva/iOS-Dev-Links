@@ -31,6 +31,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Career](pages/career.md)
 
 ### CI/CD
+- [GitHub Actions](pages/github-actions.md)
+
 ### Clean Code & Clean Architecture
 - [Clean Code](pages/clean-code.md)
 - [Clean Architecture](pages/clean-architecture.md)
