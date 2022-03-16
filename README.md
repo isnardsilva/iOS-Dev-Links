@@ -108,9 +108,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Design System](pages/design-system.md)
 - [Fonts](pages/project-resources-fonts.md)
 - [Style Guide](pages/style-guide.md)
-
-### Style Guides
-- [iOS Style Guides](pages/ios-style-guides.md)
+- [Linter](pages/swift-linter.md)
 
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
