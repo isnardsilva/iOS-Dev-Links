@@ -21,10 +21,10 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Architectural Topics
 - [Architecture Tips](pages/architecture-tips.md)
-- MVC 🔜
-- MVP 🔜
+- [MVC](pages/mvc-architecture.md)
+- [MVP](pages/mvp-architecture.md)
 - [MVVM](pages/mvvm-architecture.md)
-- VIPER 🔜
+- [VIPER](pages/viper-architecture.md)
 - [Modular Architecture](pages/modular-architecture.md)
 
 ### Career
@@ -32,7 +32,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### CI/CD
 ### Clean Code & Clean Architecture
-- Clean Code 🔜
+- [Clean Code](pages/clean-code.md)
 - [Clean Architecture](pages/clean-architecture.md)
 - [SOLID](pages/solid.md)
 
@@ -73,9 +73,9 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Git
 - [Git](pages/git.md)
 - [GitFlow](pages/gitflow.md)
-- GitHub 🔜
-- GitLab 🔜
-- Bitbucket 🔜
+- [GitHub](pages/github.md)
+- [GitLab](pages/gitlab.md)
+- [Bitbucket](pages/bitbucket.md)
 
 ### Image
 ### Interviews
@@ -156,3 +156,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Tips](pages/xcode-tips.md)
 - [Shortcuts](pages/xcode-shortcuts.md)
 - [Xcode Build](pages/xcode-build.md)
+
+### Web
+- [Concepts and Tips](pages/web-concepts-and-tips.md)
+- [Vapor](pages/swift-vapor.md)
