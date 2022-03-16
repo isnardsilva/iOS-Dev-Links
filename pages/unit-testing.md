@@ -17,3 +17,6 @@ https://pragprog.com/book/jrlegios/ios-unit-testing-by-example
 
 - **Creating a Swift 5.2 Executable with Unit Tests** [EN-US] \
 https://scottie.is/writing/swift-executables-with-unit-tests/
+
+- **Unit Testing and Test Doubles in Swift** [EN-US] \
+https://medium.com/mobil-dev/unit-testing-and-test-doubles-in-swift-5b5e93e68512
