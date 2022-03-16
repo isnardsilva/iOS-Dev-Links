@@ -115,6 +115,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Closures](pages/swift-lang-closures.md)
 - [Date](pages/swift-lang-date.md)
 - [Enum](pages/swift-lang-enum.md)
+- [Functions](pages/swift-lang-functions.md)
 - [Extensions](pages/swift-lang-extensions.md)
 - [Optionals](pages/swift-lang-optionals.md)
 - [Protocols](pages/swift-lang-protocols.md)
