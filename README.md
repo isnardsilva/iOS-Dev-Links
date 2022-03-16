@@ -121,6 +121,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Optionals](pages/swift-lang-optionals.md)
 - [Protocols](pages/swift-lang-protocols.md)
 - [Reducers](pages/swift-lang-reducers.md)
+- [Strings and Characters](pages/swift-lang-strings-and-characters.md)
 - [Struct & Class](pages/swift-lang-struct-and-class.md)
 - [Variables & Constants](pages/swift-lang-variables-and-constants.md)
 
