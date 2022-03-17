@@ -150,6 +150,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Auto Layout](pages/uikit-auto-layout.md)
 - [Custom Components](pages/uikit-custom-components.md)
 - [Storyboard and XIB](pages/uikit-storyboard-and-xib.md)
+- [UICollectionView](pages/uikit-uicollectionview.md)
 - [UITableView](pages/uikit-uitableview.md)
 - [UIViewController](pages/uikit-uiviewcontroller.md)
 - [View Code](pages/uikit-view-code.md)
