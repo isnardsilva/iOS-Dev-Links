@@ -38,8 +38,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Clean Architecture](pages/clean-architecture.md)
 - [SOLID](pages/solid.md)
 
-### Clone Apps
-- [Clone Apps](pages/clone-apps.md)
+### Clone Projects
+- [Clone Projects](pages/clone-projects.md)
 
 ### Code Review
 - [Code Review Tips](pages/code-review-tips.md)
