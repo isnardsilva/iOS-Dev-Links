@@ -55,6 +55,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Design (UI)
 - HIG 🔜
 - Figma 🔜
+- [Dark Mode](pages/dark-mode.md)
 
 ### Design Patterns
 - [Design Patterns Tips](pages/design-patterns-tips.md)
