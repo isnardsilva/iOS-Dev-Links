@@ -11,3 +11,8 @@ https://stackoverflow.com/questions/56177751/git-push-failed-with-error-gitlab-a
 ## General
 - **Fatal: Not possible to fast-forward, aborting** [EN-US] <br>
 https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting
+
+
+## Tag
+- **Git: criando tags** [PT-BR] <br>
+https://medium.com/rafaeltardivo/git-criando-tags-7c34ee6786be
