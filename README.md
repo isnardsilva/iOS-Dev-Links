@@ -55,7 +55,6 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Design (UI)
 - HIG 🔜
 - Figma 🔜
-- [Dark Mode](pages/dark-mode.md)
 
 ### Design Patterns
 - [Design Patterns Tips](pages/design-patterns-tips.md)
@@ -146,6 +145,11 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [General](pages/general-tools.md)
 - [Postman](pages/postman.md)
 
+### UI
+- [Dark Mode](pages/dark-mode.md)
+- [Device Orientation](pages/device-orientation.md)
+
+
 ### UIKit
 - [Documentation & Basic Guides](pages/uikit-documentation-basic-concepts.md)
 - [Auto Layout](pages/uikit-auto-layout.md)
@@ -155,6 +159,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [UITableView](pages/uikit-uitableview.md)
 - [UIViewController](pages/uikit-uiviewcontroller.md)
 - [View Code](pages/uikit-view-code.md)
+
 
 ### Xcode
 - [Tips](pages/xcode-tips.md)
