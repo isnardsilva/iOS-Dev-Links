@@ -11,7 +11,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Analytics
 ### Apple Store Connect
-- App Store 🔜
+- [App Store](pages/app-store.md)
 - TestFlight 🔜
 - App Review 🔜
 
