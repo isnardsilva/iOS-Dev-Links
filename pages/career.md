@@ -6,9 +6,12 @@ https://www.youtube.com/watch?v=m2ck4_U4c0Q
 
 <br>
 
-## Badges
+## Levels
 - **[Podcast][Build Failed Podcast] 48 - Carreira além de sênior** [PT-BR] <br>
 https://soundcloud.com/build-failed-podcast/48-carreira-alem-de-senior?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+- **My guiding principles after 20 years of programming** [EN-US] <br>
+https://www.freecodecamp.org/news/good-habits-for-junior-developers/
 
 <br>
 
