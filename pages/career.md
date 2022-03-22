@@ -7,11 +7,14 @@ https://www.youtube.com/watch?v=m2ck4_U4c0Q
 <br>
 
 ## Badges
-- **[Podcast][Build Failed Podcast] Carreira além de sênior** [PT-BR] <br>
-https://open.spotify.com/episode/1fD0PgXdjqOzKc0ACQHkuz?si=b68eac8a449e4755
+- **[Podcast][Build Failed Podcast] 48 - Carreira além de sênior** [PT-BR] <br>
+https://soundcloud.com/build-failed-podcast/48-carreira-alem-de-senior?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 <br>
 
-## Principles
+## Principles and Tips
 - **My guiding principles after 20 years of programming** [EN-US] <br>
 https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
+
+- **[Podcast][Build Failed Podcast] 46 - Como se manter atualizado** [PT-BR] <br>
+https://soundcloud.com/build-failed-podcast/46-como-se-manter-atualizado?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
