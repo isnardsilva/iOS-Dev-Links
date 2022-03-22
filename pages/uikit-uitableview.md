@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/34429534/dynamic-uitableview-height
 
 - **Reusable data sources in Swift** [EN-US] <br>
 https://www.swiftbysundell.com/articles/reusable-data-sources-in-swift/
+
+- **TDD UITableView** [EN-US] <br>
+http://trikalabs.com/tdd-uitableviewcontroller/
