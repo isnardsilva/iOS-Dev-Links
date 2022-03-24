@@ -18,5 +18,8 @@ https://github.com/topics/modularization?l=swift
 - **iOS Modular Architecture** [EN-US] \
 https://github.com/kudoleh/iOS-Modular-Architecture
 
+- **Microapps architecture Exemple** [EN-US] <br>
+https://github.com/micheltlutz/microappsarcexemple
+
 - **Modular Architecture in iOS** [EN-US] \
 https://tech.olx.com/modular-architecture-in-ios-c1a1e3bff8e9
