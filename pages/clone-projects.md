@@ -4,6 +4,9 @@
 - **SwiftUI: Firebase Chat iOS Tutorial** [PT-BR] <br>
 https://youtube.com/playlist?list=PLJ0AcghBBWShgAe7Pf_MB52jKceG-cWGW
 
+- **App Store + GitHub API** [EN-US] <br>
+https://github.com/HelioMesquita/Swiftmazing
+
 <br>
 
 ## Games
