@@ -7,6 +7,9 @@ https://youtube.com/playlist?list=PLJ0AcghBBWShgAe7Pf_MB52jKceG-cWGW
 - **App Store + GitHub API** [EN-US] <br>
 https://github.com/HelioMesquita/Swiftmazing
 
+- **Microapps architecture Exemple** [EN-US] <br>
+https://github.com/micheltlutz/microappsarcexemple
+
 <br>
 
 ## Games
