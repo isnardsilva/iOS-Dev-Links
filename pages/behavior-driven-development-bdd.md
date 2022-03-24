@@ -9,3 +9,6 @@ https://medium.com/mobil-dev/quick-and-nimble-5c90aa6b3d48
 
 - **Using Quick and Nimble for testing in iOS** [EN-US] <br>
 https://blog.pusher.com/quick-nimble-testing-ios/
+
+- **Installing Quick - Cocoa Pods** [EN-US] <br>
+https://github.com/Quick/Quick/blob/main/Documentation/en-us/InstallingQuick.md#cocoapods
