@@ -31,6 +31,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Career](pages/career.md)
 
 ### CI/CD
+- [Fastlane](pages/fastlane.md)
 - [GitHub Actions](pages/github-actions.md)
 
 ### Clean Code & Clean Architecture
@@ -165,6 +166,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Tips](pages/xcode-tips.md)
 - [Shortcuts](pages/xcode-shortcuts.md)
 - [Xcode Build](pages/xcode-build.md)
+- [XcodeGen](pages/xcodegen.md)
 
 ### Web
 - [Concepts and Tips](pages/web-concepts-and-tips.md)
