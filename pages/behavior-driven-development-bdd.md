@@ -12,3 +12,7 @@ https://blog.pusher.com/quick-nimble-testing-ios/
 
 - **Installing Quick - Cocoa Pods** [EN-US] <br>
 https://github.com/Quick/Quick/blob/main/Documentation/en-us/InstallingQuick.md#cocoapods
+
+- **QuickSpec tests are not referenced in Xcode13.3** [EN-US] <br>
+https://github.com/Quick/Quick/issues/1123
+
