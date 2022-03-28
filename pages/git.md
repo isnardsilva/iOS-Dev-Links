@@ -1,6 +1,9 @@
 # Git
 
 ## Config
+- **Configuração Inicial do Git** [PT-BR] <br>
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
+
 - **How to know the git username and email saved during configuration?** [EN-US] <br>
 https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration/53940971
 
