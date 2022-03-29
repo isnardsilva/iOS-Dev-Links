@@ -145,6 +145,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 ### Tools
 - [General](pages/general-tools.md)
 - [Postman](pages/postman.md)
+- [Visual Studio Code](pages/visual-studio-code.md)
 
 ### UI
 - [Dark Mode](pages/dark-mode.md)
