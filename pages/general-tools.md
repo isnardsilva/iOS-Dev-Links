@@ -21,6 +21,9 @@ https://www.uicolor.io/
 - **Online UUID Generator** [EN-US] <br>
 https://www.uuidgenerator.net/
 
+- **Compress PDF online. Same PDF quality less file size** [EN-US] <br>
+https://www.ilovepdf.com/compress_pdf
+
 <br>
 
 ## Android
