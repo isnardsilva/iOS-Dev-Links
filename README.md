@@ -89,6 +89,8 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Keynote Tips](pages/keynote-tips.md)
 
 ### macOS
+- [Setup](pages/macos-setup.md)
+
 ### Markdown
 ### Navigation
 - [Navigation Tips](pages/navigation-tips.md)
@@ -134,6 +136,10 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [SwiftUI](pages/swiftui.md)
 
 ### Terminal
+- [Tips](pages/terminal-tips.md)
+- [iTerm2](pages/iterm2.md)
+- [Vim](pages/vim.md)
+
 ### Tests
 - [Tests Tips](pages/tests-tips.md)
 - [Unit Testing](pages/unit-testing.md)
