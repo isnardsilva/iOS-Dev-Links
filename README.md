@@ -117,6 +117,7 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 
 ### Swift Language
 - [Documentation & Basic Guides](pages/swift-lang-documentation-basic-concepts.md)
+- [Basic Operators](pages/swift-lang-basic-operators.md)
 - [Closures](pages/swift-lang-closures.md)
 - [Date](pages/swift-lang-date.md)
 - [Enum](pages/swift-lang-enum.md)
