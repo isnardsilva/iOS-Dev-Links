@@ -23,3 +23,6 @@ https://github.com/micheltlutz/microappsarcexemple
 
 - **Modular Architecture in iOS** [EN-US] \
 https://tech.olx.com/modular-architecture-in-ios-c1a1e3bff8e9
+
+- **How to add a module for modularisation using Swift Package Manager** [EN-US] \
+https://medium.com/@sashensingh/how-to-add-a-module-for-modularisation-using-swift-package-manager-5344414202ed
