@@ -10,6 +10,9 @@ Nesse repositório estarão links de artigos/vídeos/conteúdos interessantes qu
 - [Algorithm](pages/algorithm.md)
 
 ### Analytics
+### App Builder
+- [App Delegate](pages/app-delegate.md)
+
 ### Apple Store Connect
 - [App Store](pages/app-store.md)
 - TestFlight 🔜
